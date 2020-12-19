@@ -21,7 +21,7 @@
 #include <iostream>
 
 #include <chrono>
-#include <strstream>
+// #include <strstream>
 
 #include "synthetic-stream-gl.h"
 

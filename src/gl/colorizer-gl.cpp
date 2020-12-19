@@ -19,7 +19,7 @@
 
 #include <iostream>
 #include <chrono>
-#include <strstream>
+// #include <strstream>
 
 static const char* fragment_shader_text =
 "#version 110\n"
